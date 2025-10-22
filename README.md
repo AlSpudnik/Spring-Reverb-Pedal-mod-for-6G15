@@ -1,4 +1,4 @@
-## Driver for a spring reverb in the form of a guitar pedal, or a mod for a tube 6G15 reverb unit.
+## Driver for a spring reverb in the form of a guitar pedal, or a mod for a tube reverb unit 6G15.
 Learn more:
 [![Reverb Pedal](https://img.shields.io/badge/Reverb_Pedal-orange.svg )](https://mrspudnik.blogspot.com/2025/09/spring-reverb-pedal-6g15.html)
 
